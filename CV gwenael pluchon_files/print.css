@@ -39,7 +39,7 @@ article.resume_post.first { border-top: medium none; margin-top: 0; padding-top:
 .widget .widget_title { color: #4CA5D0; font-size: 18px; line-height: 22px; margin-bottom: 12px; }
 footer#footer { display: none; }
 #profile_user { overflow: hidden; }
-.opened #profile_data { float: none; max-width: none; padding: 0; right: 0 !important; transform: none; vertical-align: top; width: auto; }
+.opened #profile_data { vertical-align: bottom; padding-bottom: 24px; float: none; max-width: none; right: 0 !important; transform: none; width: auto; }
 td#profile_user { float: none; width: auto; }
 #profile_title { max-width: 250px; }
 #profile_header table tr td { vertical-align: top; }
